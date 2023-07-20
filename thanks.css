@@ -42,12 +42,12 @@ transition: box-shadow 0.15s;
     margin-top: 50px;}
 }
 @media (max-width: 600px){
-   .content{  margin-left: 100px;
-     margin-top: 50px;}
+   .content{  margin-left: 10px;
+     margin-top: 10px;}
   .content button{
 margin-left: 50px;
 border: none;
-background-color: darkgrey;
+background-color: goldenrod;
 padding: 15px;
 border-radius: 20px;
 cursor: pointer;
