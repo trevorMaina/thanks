@@ -47,7 +47,7 @@ transition: box-shadow 0.15s;
   .content button{
 margin-left: 50px;
 border: none;
-background-color: goldenrod;
+background-color: gold;
 padding: 15px;
 border-radius: 20px;
 cursor: pointer;
